@@ -3,6 +3,6 @@ Some college projects about Security Engineering
 
 ## Usage
 
-In linux terminal:
-    To compile: g++ rsa.cpp -o rsa
+In linux terminal:<br />
+    To compile: g++ rsa.cpp -o rsa<br />
     To run: ./rsa file.txt
